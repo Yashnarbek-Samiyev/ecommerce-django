@@ -1,0 +1,31 @@
+
+# Created by https://www.gitignore.io/api/django
+# Edit at https://www.gitignore.io/?templates=django
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/static
+.DS_Store
+.DS_Store?
+*.swp
+*.swp
+.env
+.env.local
+.vscode
+.idea
+*.iml
+*.pydevproject
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+
